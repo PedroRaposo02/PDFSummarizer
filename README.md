@@ -14,6 +14,10 @@ pnpm install
 
 ALSO, dont forget to change .env.example to .env and change the values to your own values
 
+VITE_RAPID_API_KEY: https://rapidapi.com/gaurmanojkumar530/api/text-analysis12
+
+VITE_CONVERT_API_KEY: https://www.convertapi.com/
+
 Lastly, run the development server:
 
 ```bash
